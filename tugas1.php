@@ -14,7 +14,6 @@ if ($total_belanja > $minimal_belanja) {
   echo "Total belanja Anda adalah Rp. " . $total_belanja . ", belum mencapai minimal belanja sebesar Rp. " . $minimal_belanja . ".";
 }
 ?>
-
 </body>
 </html>
 
